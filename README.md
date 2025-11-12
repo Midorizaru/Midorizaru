@@ -1,5 +1,5 @@
--  Bienvue sur mon github (alias Midorizaru)
--  Je me concentre principalement sur la cyber et le dev 
--  Mon challenge du moment c'est Hack the box !
--  Je recherche un stage suivi d'une alternance pour l'été qui approche
+-  Bienvenue sur mon github (alias Midorizaru).
+-  Pour l'instant je me concentre principalement sur la cyber et le dev. 
+-  De plus, je me forme en ce moment sur Try Hack Me !
+-  Mon objectif à court terme est de décrocher une alternance en réseau / cyber. 
 -  Pour me contacter, rendez vous sur mon linkedin !
